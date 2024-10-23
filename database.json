@@ -1,9 +1,7 @@
-{ 
-      
-      "users": {
-           }
-            " password": "Manz Hensem"
-            }
+{
+  "users": [
+    {
+      "password": "Manz Hensem"
+    }
+  ]
 }
-}
-       
