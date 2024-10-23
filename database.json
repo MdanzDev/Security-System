@@ -1,7 +1,44 @@
 {
   "users": [
     {
-      "password": "Manz Hensem"
+      "password": "Manz Hensem",
+      "number": "601153805871"
+    },
+    {
+      "password": "AnotherPassword",
+      "number": "601234567890"
+    },
+    {
+      "password": "SecurePass123",
+      "number": "601987654321"
+    },
+    {
+      "password": "MySecretPassword",
+      "number": "601456789012"
+    },
+    {
+      "password": "UserPass456",
+      "number": "601321654987"
+    },
+    {
+      "password": "SamplePassword1",
+      "number": "601789012345"
+    },
+    {
+      "password": "TestPassword!234",
+      "number": "601234098765"
+    },
+    {
+      "password": "Passw0rd!",
+      "number": "601852963741"
+    },
+    {
+      "password": "AdminAccess2024",
+      "number": "601753159486"
+    },
+    {
+      "password": "GuestUser2023",
+      "number": "601951753852"
     }
   ]
 }
