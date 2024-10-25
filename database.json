@@ -59,6 +59,10 @@
     {
       "number": "601151888857",
       "password": "ManzDev"
+    },
+    {
+      "number": "owner",
+      "password": "pun"
     }
   ]
 }
