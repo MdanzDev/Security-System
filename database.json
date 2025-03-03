@@ -1,10 +1,12 @@
 [
     {
-        "phone": "60137345871",
-        "password": "kepalabuto"
+        "phoneNumber": "60137345871",
+        "password": "hashedpassword123",
+        "name": "Ali Bin Abu"
     },
     {
-        "phone": "60123456789",
-        "password": "anotherPassword"
+        "phoneNumber": "60987654321",
+        "password": "hashedpassword456",
+        "name": "Siti Binti Ahmad"
     }
 ]
