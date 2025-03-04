@@ -1,12 +1,17 @@
 [
-    {
-        "phoneNumber": "60137345871",
-        "password": "hashedpassword123",
-        "name": "Ali Bin Abu"
-    },
-    {
-        "phoneNumber": "60987654321",
-        "password": "hashedpassword456",
-        "name": "Siti Binti Ahmad"
-    }
+  {
+    "phoneNumber": "60137345871",
+    "password": "hashedpassword123",
+    "name": "Ali Bin Abu"
+  },
+  {
+    "phoneNumber": "60987654321",
+    "password": "hashedpassword456",
+    "name": "Siti Binti Ahmad"
+  },
+  {
+    "name": "Fikri",
+    "password": "kryxtakpuasa30",
+    "phoneNumber": "601137195654"
+  }
 ]
